@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\bin\Debug\netcoreapp3.1\DrawRobot.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\DrawRobot\DrawRobot\obj\Debug\netcoreapp3.1\DrawRobot.pdb

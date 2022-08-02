@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb

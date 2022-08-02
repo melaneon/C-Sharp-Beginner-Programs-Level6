@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\bin\Debug\netcoreapp3.1\AddNumbers.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\AddNumbers\AddNumbers\obj\Debug\netcoreapp3.1\AddNumbers.pdb

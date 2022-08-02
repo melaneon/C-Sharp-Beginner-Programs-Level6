@@ -1,0 +1,20 @@
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.exe
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.deps.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.runtimeconfig.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.runtimeconfig.dev.json
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\bin\Debug\netcoreapp3.1\BoxMaker.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.csprojAssemblyReference.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.AssemblyInfoInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.AssemblyInfo.cs
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.csproj.CoreCompileInputs.cache
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.dll
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.pdb
+M:\Fall_2020-2021\ICS114\Melaniia_Frolova_Lab06\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.genruntimeconfig.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.csproj.AssemblyReference.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.AssemblyInfoInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.AssemblyInfo.cs
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.csproj.CoreCompileInputs.cache
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.dll
+D:\Tech Portfolio\GitHub\C# Mini Projects\Level 6\BoxMaker\BoxMaker\obj\Debug\netcoreapp3.1\BoxMaker.pdb
